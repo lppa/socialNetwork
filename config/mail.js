@@ -5,6 +5,8 @@ module.exports = {
   port: 465,
   secureConnection: true,
   //name: "servername",
+  
+  //TODO replace this for a gmail account 
   auth: {
     user: "admin gmail user",
     pass: "admin pass"
